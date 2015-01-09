@@ -8,6 +8,7 @@ namespace LinkedListProject
 //lets test pull
     class GenericLinkedList<T> : CollectionBase
     {
+        //comment from branch 1.1
         private class Element<T>
         {
             public T elementValue;
